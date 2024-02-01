@@ -1,3 +1,10 @@
+# BCI Music Player
+
+Welcome to my Github repository for my BCI project that plays music based off how you're feeling (relaxed vs. concentrated vs. creative)
+
+I forked Alexandre Barachant's muselsl repository and made a substantial amount of edits to customize it to this particular goal of playing music. I measured three parameters: alpha (showing signs of relaxation), beta (showing signs of concentration), and theta (showing signs of creativity).
+
+## Below is the README from Alexandre Barachant's muselsl Repo
 
 [![DOI](https://zenodo.org/badge/80209610.svg)](https://zenodo.org/badge/latestdoi/80209610)
 
